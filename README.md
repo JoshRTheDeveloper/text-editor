@@ -21,10 +21,10 @@ NPM run dev
 A editor that allows text to be modified. 
 
 ## Deployment
-
+https://textinator-01e87628162f.herokuapp.com
 
 ## Screenshot
-![my screenshot](./public/assets/Screenshot%20Note_taker.png).
+![my screenshot](./assets/Screenshot.png).
 
 ## Contributors
 Bootcamp for starter code - Thanks
