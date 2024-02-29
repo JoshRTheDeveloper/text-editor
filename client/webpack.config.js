@@ -23,13 +23,13 @@ module.exports = () => {
         title: "Text Editor",
       }),
 
-      
+      // injects service worker
       new InjectManifest({
         swSrc: "./src-sw.js",
         swDest: "src-sw.js",
       }),
 
-      
+      // generates PWA manifest file
       new WebpackPwaManifest({
         fingerprints: false,
         inject: true,
